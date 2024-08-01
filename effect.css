@@ -1,0 +1,60 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+    padding: 3%;
+    padding-right: 10%;
+    font-weight: bolder;
+    font-size: xxx-large;
+    
+}
+.header1
+{    
+    font-size: x-large;
+    text-align: left;
+    font-weight: bolder;
+}
+body{
+    background-image:url(https://www.arbd.com/wp-content/uploads/2018/11/AdobeStock_182210350.jpeg);
+    width: 100%;
+
+    
+}
+h3
+{
+    font-size: x-large;
+    opacity: 70%;
+    background-color:aliceblue;
+    font-style: normal;
+    text-align: left;
+    padding: 1%;
+}
+h4{
+    font-style: normal;
+    font-size:large;
+    opacity: 70%;
+    background-color: aliceblue;
+    color: maroon;
+    font-weight: 700;
+    text-align: right;
+}h5{
+    color: black;
+    text-align: right;
+}
+h2{
+    opacity: 70%;
+    background-color: aliceblue;
+    font: size 50px;
+    padding: 1%;
+}
+.a{
+    font-weight: 800;
+    font-size: x-large;
+}
+.navibar
+{
+    opacity: 70%;
+    font-size: large;
+    background-color:white ;
+    padding:20px;
+}
